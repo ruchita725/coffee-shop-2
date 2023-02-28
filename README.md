@@ -1,6 +1,6 @@
 # coffee-shop-2
 
-# hotel-booking Website HTML/CSS/JAVASCRIPT
+# coffee-shop-2 Website HTML/CSS/JAVASCRIPT
 
 ### Demo: https://ruchita725.github.io/coffee-shop-2/
 
